@@ -1,2 +1,2 @@
-# stone-paper-scissor-game
-stone paper scissor game using JavaScript, CSS and HTML
+# rock-paper-scissor-game
+rock paper scissor game using JavaScript, CSS and HTML
